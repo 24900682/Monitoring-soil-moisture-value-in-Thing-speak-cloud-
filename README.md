@@ -1,7 +1,7 @@
 ### NAME: ASWIN L
 ### REG NO: 24900682
 
-# Exp-4:Monitoring soil moisture value in Thing speak cloud
+# Exp-5:Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
