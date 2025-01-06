@@ -2,7 +2,7 @@
 ### REG NO: 24900682
 
 # Exp-5:Monitoring soil moisture value in Thing speak cloud
-# Uploading soil moisture sensor data in Thing Speak cloud
+
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
